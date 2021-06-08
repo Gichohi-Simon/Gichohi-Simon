@@ -1,5 +1,16 @@
 ### Hi there I'm Gichohi👋
 
+##ABOUT ME
+
+-  💻 I'm a Full Stack Web developer.
+
+##GIT STATS
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gichohi-Simon&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gichohi-Simon&theme=radical"/>
+
+##TOP PROGRAMMING LANGUAGES.
+
+
 <!--
 **Gichohi-Simon/Gichohi-Simon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
