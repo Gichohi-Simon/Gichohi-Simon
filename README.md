@@ -2,7 +2,10 @@
 
 ##ABOUT ME
 
--  💻 I'm a Full Stack Web developer.
+-  💻 I'm a Full Stack Web deVeloper.
+-  🤓 Javascript fan boy.
+-  📧 How to reach me: njogugichohi56@gmail.com.
+-  
 
 ##GIT STATS
 
@@ -11,8 +14,6 @@
 ##TOP PROGRAMMING LANGUAGES
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gichohi-Simon&theme=radical&title_color=BE2DE2&text_color=fff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gichohi-Simon)
 
 
 
