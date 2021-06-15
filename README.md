@@ -17,7 +17,7 @@ feel free to hit me up for free lance work or just to talk.
 
 ##TOP PROGRAMMING LANGUAGES
 
-//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gichohi-Simon&theme=radical&title_color=BE2DE2&text_color=fff)](url)
+![Top Langs](htts://github-readme-stats.vercel.app/api/top-langs/?username=Gichohi-Simon&theme=radical&title_color=BE2DE2&text_color=fff)
 
 
 
