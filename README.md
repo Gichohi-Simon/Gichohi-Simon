@@ -16,8 +16,8 @@ feel free to hit me up for free lance work or just to talk.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gichohi-Simon&theme=radical"/>
 
 ##TOP PROGRAMMING LANGUAGES
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gichohi-Simon&theme=radical&title_color=BE2DE2&text_color=fff)
+[
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gichohi-Simon&theme=radical&title_color=BE2DE2&text_color=fff)](url)
 
 
 
