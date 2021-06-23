@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Simon Gichohi A full stack web developer, i like building cool web apps and great ui's. 
+My name is Simon Gichohi A software developer, i like building cool web apps and great ui's. 
 For frontend i prefer using React and Typescript while for backend my go tool is node js. 
 feel free to hit me up for free lance work or just to talk.
 
