@@ -6,7 +6,7 @@ feel free to hit me up for free lance work or just to talk.
 ##ABOUT ME
 
 -  💻 I'm a Full Stack Web deVeloper.
--  🤓 Javascript fan boy.
+-  🤓 Javascript fan man.
 -  📧 How to reach me: njogugichohi56@gmail.com.
 
 ##GIT STATS
