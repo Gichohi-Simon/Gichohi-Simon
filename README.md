@@ -5,7 +5,7 @@ feel free to hit me up for freelance work or just to talk.
 
 ##ABOUT ME
 
--  💻 I'm a Full Stack Web deVeloper.
+-  💻 I'm a FullStack Web deVeloper.
 -  🤓 Javascript fan.
 -  📧 How to reach me: njogugichohi56@gmail.com.
 
