@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Simon Gichohi A software developer, i like building cool web apps and great ui's. 
 For frontend i prefer using React and Typescript while for backend my go tool is node js. 
-feel free to hit me up for freelance work or just to talk.
+
 
 ##ABOUT ME
 
