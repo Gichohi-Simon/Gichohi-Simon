@@ -5,7 +5,7 @@ For frontend i prefer using React and Typescript while for backend my go tool is
 
 ###ABOUT ME
 
--  💻 I'm a FullStack Web deVeloper.
+-  💻 I'm a FullStack Webdeveloper.
 -  🤓 Javascript fan.
 -  📧 How to reach me: njogugichohi56@gmail.com.
 -  🌱 I’m currently learning GraphQl.
