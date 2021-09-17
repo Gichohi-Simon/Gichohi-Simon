@@ -14,7 +14,8 @@ For frontend i prefer using React and Typescript while for backend my go tool is
 
 <img src="https://github-readme-stats.vercel.app/api?username=Gichohi-Simon&&show_icons=true&count_private=true&theme=radical"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gichohi-Simon&theme=radical"/>
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gichohi-Simon&theme=radical"/>-->
+
 
 ###TOP PROGRAMMING LANGUAGES
 
