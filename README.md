@@ -3,21 +3,21 @@ My name is Simon Gichohi A software developer, i like building cool web apps and
 For frontend i prefer using React and Typescript while for backend my go tool is node js. 
 
 
-###ABOUT ME
+### ABOUT ME
 
 -  💻 I'm a FullStack Webdeveloper.
 -  🤓 Javascript fan.
 -  📧 How to reach me: njogugichohi56@gmail.com.
--  🌱 I’m currently learning GraphQl.
+- 💬 Ask me about MERN.
 
-###GIT STATS
+### GIT STATS
 
 <img src="https://github-readme-stats.vercel.app/api?username=Gichohi-Simon&&show_icons=true&count_private=true&theme=radical"/>
 
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gichohi-Simon&theme=radical"/>-->
 
 
-###TOP PROGRAMMING LANGUAGES
+### TOP PROGRAMMING LANGUAGES
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gichohi-Simon&theme=radical&title_color=BE2DE2&text_color=fff)
 
