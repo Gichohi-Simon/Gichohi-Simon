@@ -8,7 +8,7 @@ For frontend i prefer using React and Typescript while for backend my go tool is
 -  💻 I'm a fullStack javscript developer.
 -  🤓 Javascript fan.
 -  📧 How to reach me: njogugichohi56@gmail.com.
-- 💬 Ask me about MERN/React Native.
+- 💬 Ask me about React/React Native/Node js.
 
 ### GIT STATS
 
