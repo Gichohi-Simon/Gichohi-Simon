@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Simon Gichohi A MERN(React/React-Native) stack Developer.
+I'm Gichohi A MERN(React/React-Native) stack Developer.
 
 
 ### ABOUT ME
