@@ -7,7 +7,7 @@ I'm Gichohi A MERN(React/React-Native) stack Developer.
 -  💻 I'm a fullStack javscript developer.
 -  🤓 Javascript fan.
 -  📧 How to reach me: njogugichohi56@gmail.com.
-- 💬 Ask me about React/React Native/Node js.
+- 💬 Ask me about React/Vue-js/React-Native/Node js.
 
 ### GIT STATS
 
