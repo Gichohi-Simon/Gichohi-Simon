@@ -8,6 +8,7 @@ I'm Gichohi A MERN(React/React-Native) stack Developer.
 -  🤓 Javascript fan.
 -  📧 How to reach me: njogugichohi56@gmail.com.
 - 💬 Ask me about React/Vue-js/React-Native/Node js.
+- 🌱 I’m currently learning Machine Learning
 
 ### GIT STATS
 
