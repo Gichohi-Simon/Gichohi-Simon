@@ -1,14 +1,21 @@
 ### Hi there 👋
-I'm Gichohi A MERN(React/React-Native) stack Developer.
+I'm Gichohi A Software Engineer.
 
-
+### STACK
+ - React
+ - React Native
+ - Next js
+ - GraphQl
+ - Node(Express)
+ - MongoDB
+ - Postgres
+ 
 ### ABOUT ME
 
--  💻 I'm a fullStack javscript developer.
--  🤓 Javascript fan.
+-  💻 I'm a FullStack Javascript/Typescript Developer.
+-  🤓 Javascript fanBoy.
 -  📧 How to reach me: njogugichohi56@gmail.com.
 - 💬 Ask me about React/React-Native/Node js.
-- 🌱 I’m currently learning Machine Learning
 
 ### GIT STATS
 
