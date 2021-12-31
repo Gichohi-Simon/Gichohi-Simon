@@ -3,6 +3,7 @@ I'm Gichohi A Software Engineer.
 
 ### STACK
  - React
+ - Angular 10+
  - Next js
  - GraphQl
  - Node(Express)
@@ -15,7 +16,7 @@ I'm Gichohi A Software Engineer.
 -  💻 I'm a FullStack Javascript/Typescript Developer.
 -  🤓 Javascript fanBoy.
 -  📧 How to reach me: njogugichohi56@gmail.com.
-- 💬 Ask me about React/Node js/Typescript.
+- 💬 Ask me about React/Angular/Node js/Typescript.
 
 ### GIT STATS
 
