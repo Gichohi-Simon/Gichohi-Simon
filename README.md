@@ -29,15 +29,6 @@ I'm Gichohi A Software Engineer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gichohi-Simon&theme=radical&title_color=BE2DE2&text_color=fff)
 
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Gichohi-Simon/count.svg" />
-</p>
-
-
-
-
 <!--
 **Gichohi-Simon/Gichohi-Simon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
