@@ -30,6 +30,12 @@ I'm Gichohi A Software Engineer.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gichohi-Simon&theme=radical&title_color=BE2DE2&text_color=fff)
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Gichohi-Simon/count.svg" />
+</p>
+
+
 
 
 <!--
