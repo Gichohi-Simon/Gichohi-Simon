@@ -3,7 +3,7 @@ I'm Gichohi A Software Engineer.
 
 ### STACK
  - React
- - Angular 12
+ - Vue
  - Next js
  - GraphQl
  - Node(Express)
