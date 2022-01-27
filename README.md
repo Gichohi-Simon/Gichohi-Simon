@@ -16,7 +16,7 @@ I'm Gichohi A Software Engineer.
 -  💻 I'm a FullStack Javascript/Typescript Developer.
 -  🤓 Javascript Nerd.
 -  📧 How to reach me: njogugichohi56@gmail.com.
-- 💬 Ask me about React/Angular/Node js/Typescript.
+- 💬 Ask me about React/Vue/Node js/Typescript.
 
 ### GIT STATS
 
@@ -29,17 +29,4 @@ I'm Gichohi A Software Engineer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gichohi-Simon&theme=radical&title_color=BE2DE2&text_color=fff)
 
-<!--
-**Gichohi-Simon/Gichohi-Simon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
