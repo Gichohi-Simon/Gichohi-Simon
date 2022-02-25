@@ -8,7 +8,7 @@ I'm Gichohi A Software Engineer.
  - Node(Express)
  - MongoDB
  - Postgres
- - Docker
+ - (Learning) Golang
  
 ### ABOUT ME
 
