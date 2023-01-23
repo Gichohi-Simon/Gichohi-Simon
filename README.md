@@ -9,6 +9,7 @@ I'm Gichohi A Software Engineer.
  - Node(Express).
  - MongoDB.
  - Postgres.
+ - Golang
  
 ### ABOUT ME
 
