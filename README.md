@@ -3,6 +3,7 @@ I'm Gichohi A Software Engineer.
 
 ### STACK
  - React.
+ - Vue.js
  - React Native.
  - Next js.
  - Node(Express).
