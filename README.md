@@ -2,13 +2,10 @@
 I'm Gichohi A Software Engineer.
 
 ### STACK
- - React.
+ - React (next js).
  - Vue.js
  - React Native.
- - Next js.
  - Node(Express).
- - MongoDB.
- - Postgres.
  
 ### ABOUT ME
 
