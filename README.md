@@ -11,7 +11,7 @@ I'm Gichohi A Software Engineer.
 
 -  💻 I'm a FullStack Javascript/Typescript Developer.
 -  🤓 Javascript Nerd.
--  📧 How to reach me: simongichohi467@gmail.com.
+-  📧 How to reach me: njogugichohi56@gmail.com.
 - 💬 Ask me about React/Node js/Typescript.
 
 
