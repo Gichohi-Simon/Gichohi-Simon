@@ -8,9 +8,4 @@ I'm Gichohi A Software Engineer.
  - React Native.
  - Node(Express).
  
-### ABOUT ME
-
--  💻 I'm a FullStack Javascript/Typescript Developer.
-
-
 
